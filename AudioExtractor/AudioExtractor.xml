@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AudioExtractor>
+  <Settings>
+    <DefaultOutputDestination>SameAsSource</DefaultOutputDestination>
+    <SpecifiedOutputFolder></SpecifiedOutputFolder>
+    <IncludeSubfolders>True</IncludeSubfolders>
+    <DeleteSourceFiles>False</DeleteSourceFiles>
+  </Settings>
+  <Decoders Location="Decoders">
+  </Decoders>
+</AudioExtractor>
